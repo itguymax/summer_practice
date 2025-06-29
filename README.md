@@ -35,6 +35,7 @@ Create a clean, simple, and conversion-focused layout using Figma.
 - **Font:** System UI (fast loading, native feel)
 - **Mobile-first Layout:** All elements tested for responsiveness in Figma
 - **No images:** Emojis and text used to maintain lean structure
+- **Result [here](https://www.figma.com/design/wNBOpudtQBnpNOGkHiq8FW/Summer-Practice?node-id=11-2&t=3JYwSjFyO47X9sh5-0)**
 
 ---
 
