@@ -46,6 +46,7 @@ Create a clean, simple, and conversion-focused layout using Figma.
 - HTML5 (semantic structure)
 - CSS3 (custom styling, Flexbox, media queries)
 - No frameworks or JS for performance
+  \*\*[Code here](https://github.com/itguymax/summer_practice)
 
 ### 📁 Project Structure
 
